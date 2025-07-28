@@ -73,7 +73,7 @@ Farklı projelerimi yatırımcılara ve jüriye sundum, mentorluk ve geri bildir
 
 ## 🧠 Akademik & Topluluk Katkılarım
 
-- 🎓 **YAEM **
+ **🎓YAEM **
 - Endüstriyel Simbiyoz çalışmasının alanında uzman akademisyenlere sunumu 
 
 **OSTİM Teknik Üniversitesi – Pandora AI**  
