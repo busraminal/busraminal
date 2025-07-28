@@ -51,9 +51,9 @@ Yapay Zekâ ve Endüstri Mühendisliği öğrencisi | Üretken Yapay Zekâ Tutku
 - **TURKCELL Geleceği Yazanlar:** Python, ML, Veri Bilimi  
 - **BTK Akademi:** Sağlıkta AI, Proje Yönetimi, MS Project  
 - **Talentcoders / OSD:** Katılım Sertifikaları
-- **Girişimcilik Sertifikası
-- **Hackathon Başarı  Sertifikası
-- **YAEM Başarı ve katılım Sertifikası
+- **Girişimcilik Sertifikası**
+- **Hackathon** Başarı  Sertifikası
+- **YAEM** Başarı ve katılım Sertifikası
 
 ---
 
