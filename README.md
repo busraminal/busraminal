@@ -59,14 +59,14 @@ Yapay Zekâ ve Endüstri Mühendisliği öğrencisi | Üretken Yapay Zekâ Tutku
 
 🏆 Yarışma & Etkinlik Başarıları
 🥇 Hackathon 2025 – GOOGLE
-Atık Takas temalı üretken yapay zekâ projesi ile finalist olarak yer aldım.
+Atık Takas temalı proje ile finalist olarak yer aldım.
 
 🎯 OSTİM Proje Pazarı Finalisti
 Yapay zekâ destekli iş yeri güvenliği platformu projemle mansiyon ödülü.
 Yapay zekâ destekliatık takası platformu projemle 3.lük ödülü.
 
 🌱 MÜSİAD Girişimcilik Programı
-Yapay zekâ ve sürdürülebilirlik temelli proje ile seçilen 2 projemle yenilikçi girişimler arasında yer aldım.
+Yapay zekâ ve sürdürülebilirlik temelli iki projemle seçilen yenilikçi girişimler arasında yer aldım.
 
 💡 Demo Day Sunumları
 Farklı projelerimi yatırımcılara ve jüriye sundum, mentorluk ve geri bildirimler aldım.
