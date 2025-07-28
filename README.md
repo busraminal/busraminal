@@ -51,10 +51,30 @@ Yapay Zekâ ve Endüstri Mühendisliği öğrencisi | Üretken Yapay Zekâ Tutku
 - **TURKCELL Geleceği Yazanlar:** Python, ML, Veri Bilimi  
 - **BTK Akademi:** Sağlıkta AI, Proje Yönetimi, MS Project  
 - **Talentcoders / OSD:** Katılım Sertifikaları
+- **Girişimcilik Sertifikası
+- **Hackathon Başarı  Sertifikası
+- **YAEM Başarı ve katılım Sertifikası
 
 ---
 
-## 🤝 Gönüllü Çalışmalar
+🏆 Yarışma & Etkinlik Başarıları
+🥇 Hackathon 2025 – GOOGLE
+Atık Takas temalı üretken yapay zekâ projesi ile finalist olarak yer aldım.
+
+🎯 OSTİM Proje Pazarı Finalisti
+Yapay zekâ destekli iş yeri güvenliği platformu projemle mansiyon ödülü.
+Yapay zekâ destekliatık takası platformu projemle 3.lük ödülü.
+
+🌱 MÜSİAD Girişimcilik Programı
+Yapay zekâ ve sürdürülebilirlik temelli proje ile seçilen 2 projemle yenilikçi girişimler arasında yer aldım.
+
+💡 Demo Day Sunumları
+Farklı projelerimi yatırımcılara ve jüriye sundum, mentorluk ve geri bildirimler aldım.
+
+## 🧠 Akademik & Topluluk Katkılarım
+
+- 🎓 **YAEM **
+- Endüstriyel Simbiyoz çalışmasının alanında uzman akademisyenlere sunumu 
 
 **OSTİM Teknik Üniversitesi – Pandora AI**  
 Başkan Yardımcısı | Yapay Zekâ Fikir Geliştirme & Mentorluk
