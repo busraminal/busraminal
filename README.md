@@ -83,7 +83,7 @@ Başkan Yardımcısı | Yapay Zekâ Fikir Geliştirme & Mentorluk
 
 ## 📫 Bana Ulaş
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([www.linkedin.com/in/bmi̇nal60135806](https://www.linkedin.com/in/bmi%CC%87nal60135806?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNUK05cDSyugtvsMh6i4FQ%3D%3D))  
+LinkedIn  https://www.linkedin.com/in/bmi%CC%87nal60135806?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBNUK05cDSyugtvsMh6i4FQ%3D%3D
 📧 Mail: **busraminaa@gmail.com**
 
 ---
