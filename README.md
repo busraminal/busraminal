@@ -18,27 +18,47 @@ Generative AI • RAG • Time-Series • NLP • CV • MLOps
 
 ## 🛠️ Teknolojiler
 
-<!-- Programlama Dilleri -->
-<!-- Programlama Dilleri -->
+<!-- Programlama -->
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<!-- Araçlar -->
-![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
-![3D Slicer](https://img.shields.io/badge/-3D%20Slicer-00599C?style=for-the-badge&logo=3dslicer&logoColor=white)
-![Project Management](https://img.shields.io/badge/-Project%20Management-0078D7?style=for-the-badge&logo=project&logoColor=white)
+<!-- AI & ML -->
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<!-- Diğer (Logo Bulunmazsa Genel Kullanım) -->
-![RPA](https://img.shields.io/badge/-RPA-4285F4?style=for-the-badge&logo=automation&logoColor=white)
-![ETEA](https://img.shields.io/badge/-ETEIA-FF6F00?style=for-the-badge)
+<!-- LLM & RAG -->
+![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/-FAISS-009688?style=for-the-badge&logo=vector&logoColor=white)
+![BM25](https://img.shields.io/badge/-BM25-6C3483?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C7ED6?style=for-the-badge&logo=chainlink&logoColor=white)
+![SentenceTransformers](https://img.shields.io/badge/-SentenceTransformers-2ECC71?style=for-the-badge)
+
+<!-- Veri & DB -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+<!-- Araçlar -->
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 ## 🚀 Deneyim & Öne Çıkan Projeler  
 
