@@ -72,7 +72,7 @@ Generative AI • RAG • Time-Series • NLP • CV • MLOps
 ---
 
 ## 🏆 Başarılar
-- 🥇 **Hackathon 2025 (Google)** – Atık Takas projesiyle finalist  
+- 🥇 **Hackathon 2025** – Atık Takas projesiyle finalist  
 - 🎯 **OSTİM Proje Pazarı Finalisti** – İş güvenliği & Atık Takas projeleri  
 - 🌱 **MÜSİAD Girişimcilik Programı** – AI + sürdürülebilirlik projeleri  
 - 💡 **Demo Day Sunumları** – Yatırımcı & jüri karşısında projeler  
