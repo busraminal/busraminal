@@ -3,7 +3,7 @@
   
 # 👩‍💻 Büşra Mina AL  
 **AI Engineering • Industrial Engineering (Double Major)**  
-Generative AI • RAG • Time-Series • NLP • ML • DL • Image Processing
+Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Processing
 
 <br/>
 
