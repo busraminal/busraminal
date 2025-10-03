@@ -9,7 +9,7 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 
 <!-- Rozetler -->
 <a href="https://github.com/busraminal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/busraminal?style=for-the-badge"></a>
-<a href="https://www.linkedin.com/in/bminal60135806/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Büşra%20Mina%20AL-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="[https://www.linkedin.com/in/bminal60135806/](https://www.linkedin.com/in/bmi%CC%87nal60135806/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Büşra%20Mina%20AL-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:busraminaa@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-busraminaa%40gmail.com-8a2be2?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
