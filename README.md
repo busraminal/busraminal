@@ -69,17 +69,6 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 
 ---
 
-## 🚀 Deneyim & Öne Çıkan Projeler
-- **Kanser Tespiti Projesi** – Derin öğrenme ile erken teşhis  
-- **DTT – ALPS Hesaplama** – MR görüntü analizi & erken hesaplama  
-- **Borsa Tahmin Uygulaması** – Zaman serisi modelleri (ARIMA, SARIMA)  
-- **Siber Güvenlik Çözümleri** – Yapay zeka ile tehdit analizi  
-- **Mevzuat RAG Sistemi** – PDF vektörel dönüştürme + BM25 + FAISS + LLM  
-- **GabimKontrol & Rapor Analizi** – Gayrimenkul değerleme raporlarında anormallik tespiti  
-- **AtıkAl** – Endüstriyel atık takas platformu: backend, veri tabanı tasarımı, AI eşleştirme  
-
----
-
 ## 🎯 Başarılar & Ödüller
 - **Hackathon 2025** – Atık Takas projesi finalist  
 - **OSTİM Proje Pazarı Finalisti** – İş güvenliği & atık takas projeleri  
@@ -139,17 +128,6 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 🚀 Experience & Highlight Projects
-- **Cancer Detection Project** – Deep learning for early diagnosis  
-- **DTT – ALPS Computation** – MR image analysis & early estimations  
-- **Stock Prediction Application** – Time series forecasting (ARIMA, SARIMA)  
-- **Cybersecurity Solutions** – AI-based threat analysis  
-- **Regulation RAG System** – PDF vectorization + BM25 + FAISS + LLM  
-- **GabimKontrol & Report Analysis** – Detecting anomalies in real estate valuation reports  
-- **AtıkAl** – Industrial waste exchange platform: backend, database design, AI matching  
 
 ---
 
