@@ -10,12 +10,12 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 ---
 
 ## 🌐 Languages
-- 🇹🇷 **Türkçe**
-- 🇬🇧 **English**
+-  **Türkçe**
+- **English**
 
 ---
 
-# 🇹🇷 Türkçe
+#  Türkçe
 
 ## 🛠️ Teknolojiler & Araçlar
 
@@ -83,7 +83,7 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 
 
 
-# 🇬🇧 English
+#  English
 
 ## 🛠️ Technologies & Tools
 ### 💻 Programming Languages
