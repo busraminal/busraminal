@@ -146,16 +146,17 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 
 <div align="center">
 
-  <!-- Genel İstatistik -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight" height="160"/>
+  <!-- Genel istatistik -->
+  <img src="https://stats.dooboo.io/api/github-stats?login=busraminal&theme=tokyonight" height="160"/>
 
-  <!-- Dil Dağılımı -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight" height="160"/>
+  <!-- Dil istatistiği -->
+  <img src="https://stats.dooboo.io/api/top-langs?login=busraminal&theme=tokyonight" height="160"/>
 
   <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=busraminal&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="190"/>
 
 </div>
+
 
 
 
