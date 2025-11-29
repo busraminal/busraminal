@@ -143,10 +143,10 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 # 📊 GitHub Stats
 <div align="center">
 
-![Mina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak Stats](https://streak-stats.demolab.com?user=busraminal&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight" height="160"/>
+</p>
 </div>
 
 ---
@@ -155,7 +155,7 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 [![GitHub](https://img.shields.io/badge/GitHub-busraminal-181717?style=for-the-badge&logo=github)](https://github.com/busraminal)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Büşra%20Mina%20AL-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bminal60135806/)  
 [![Email](https://img.shields.io/badge/Email-busraminaa%40gmail.com-8a2be2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraminaa@gmail.com)  
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-yellow?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/BMina)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-yellow?style=for-the-badge&logo=huggingface&logoColor=black)]([https://huggingface.co/BMina](https://huggingface.co/BMinal))
 
 ---
 
