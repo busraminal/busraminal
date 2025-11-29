@@ -142,11 +142,20 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
   <sub>⭐️ Thank you for visiting my GitHub profile!</sub>
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight" height="165">
-  <img src="https://streak-stats.demolab.com?user=busraminal&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="190">
+
+  <!-- Genel İstatistik -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight" height="160"/>
+
+  <!-- Dil Dağılımı -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight" height="160"/>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=busraminal&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="190"/>
+
 </div>
+
 
 
