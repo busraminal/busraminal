@@ -142,20 +142,18 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
   <sub>⭐️ Thank you for visiting my GitHub profile!</sub>
 </div>
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
-  <!-- Genel Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight&cache_seconds=1" height="160"/>
+  <!-- GENEL STATS -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=busraminal&theme=tokyonight" height="170"/>
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight&cache_seconds=1" height="160"/>
+  <!-- EN ÇOK KULLANILAN DİLLER -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=busraminal&theme=tokyonight" height="170"/>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=busraminal&theme=tokyonight&date_format=j%20M%5B%20Y%5D&cache_seconds=1" height="190"/>
+  <!-- COMMIT / AKTİFLİK GRAFİĞİ -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=busraminal&theme=tokyonight&utcOffset=3" height="170"/>
 
 </div>
 
