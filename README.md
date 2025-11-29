@@ -157,6 +157,14 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 
 </div>
 
+## 📫 İletişim
+
+[![Email](https://img.shields.io/badge/E-mail-busraminaa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraminaa@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Büşra%20Mina%20AL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bmi%CC%87nal60135806/)
+
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-BMinal-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/BMinal)
+
 
 
 
