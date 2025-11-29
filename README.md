@@ -16,7 +16,7 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 
 ---
 
-# 🇹🇷 Türkçe
+# Türkçe
 
 ## 🛠️ Teknolojiler & Araçlar
 
@@ -79,7 +79,7 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
   <sub>⭐️ GitHub profilimi ziyaret ettiğiniz için teşekkürler!</sub>
 </div>
 
-# 🇬🇧 English
+# English
 
 ## 🛠️ Technologies & Tools
 
@@ -143,26 +143,25 @@ Generative AI • RAG • Time-Series • NLP • ML • CV • DL • Image Pro
 </div>
 
 # 📊 GitHub Stats
-
 <div align="center">
 
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight" 
-    height="160"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight" 
-    height="160"
-  />
-</p>
+<!-- Genel Stats -->
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=busraminal&show_icons=true&theme=tokyonight" 
+  height="160"
+/>
 
-<p>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=busraminal&theme=tokyonight" 
-    height="180"
-  />
-</p>
+<!-- Çok Kullanılan Diller -->
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=busraminal&layout=compact&theme=tokyonight" 
+  height="160"
+/>
+
+<!-- Streak -->
+<img 
+  src="https://streak-stats.demolab.com?user=busraminal&theme=tokyonight&date_format=j%20M%5B%20Y%5D" 
+  height="180"
+/>
 
 </div>
+
