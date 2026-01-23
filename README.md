@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/busraminal/busraminal/main/githubgif.gif" />
+</p>
+
+
 <!-- Profil Banner -->
 <div align="center">
   
