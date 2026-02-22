@@ -9,9 +9,8 @@
 #  Büşra Mina AL  
 **AI Engineering • Industrial Engineering (Double Major)**
 
-Generative AI • RAG • Reinforcement Learning • Time-Series • NLP • ML • CV • DL
-Optimization • Decision Support • Industrial Data Analytics
-AI-Powered Web Applications • Model Deployment • Scalable Systems
+Generative AI • Reinforcement Learning • Time-Series • NLP • ML • CV • DL • Image Processing
+Operations Research • Industrial Decision Support • AI-Powered Web Applications
 
 </div>
 
