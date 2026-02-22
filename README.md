@@ -87,9 +87,11 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ## 🎯 Başarılar & Ödüller
 - **Hackathon 2025** – Atık Takas projesi finalist  
-- **OSTİM Proje Pazarı Finalisti** – İş güvenliği & Atık Takas projeleri  
+- **OSTİM Proje Pazarı Finalisti** – İşçi güvenliği & Atık Takas projeleri  
 - **MÜSİAD Girişimcilik Programı** – AI + Sürdürülebilirlik projeleri  
-- **Demo Day Sunumları** – Yatırımcı & jüri sunumları  
+- **Demo Day Sunumları** – Yatırımcı & jüri sunumları
+- **TÜBİTAK 2209** - İşçi güvenliği
+- **HAVELSAN SUİT** - Multi model deepfake tespiti
 
 ---
 
@@ -161,11 +163,13 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-## 🎯 Achievements & Recognitions
-- **Hackathon 2025** – Atık Takas project finalist  
-- **OSTİM Project Bazaar Finalist** – Occupational Safety & Waste Exchange  
+## 🎯 Achievements & Awards
+- **Hackathon 2025** – Finalist, Waste Exchange Project  
+- **OSTİM Project Market Finalist** – Occupational Safety & Waste Exchange Projects  
 - **MÜSİAD Entrepreneurship Program** – AI & Sustainability Projects  
-- **Demo Day Presentations** – Investor and Jury Pitches  
+- **Demo Day Presentations** – Investor & Jury Pitches  
+- **TÜBİTAK 2209 Research Program** – Occupational Safety Project  
+- **HAVELSAN SUİT** – Multimodal Deepfake Detection System  
 
 ---
 
