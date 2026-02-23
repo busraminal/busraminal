@@ -97,7 +97,7 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ---
 
 ## 🎯 Başarılar & Ödüller
-- **Hackathon 2025** – Atık Takas projesi finalist  
+- **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
 - **OSTİM Proje Pazarı Finalisti** – İşçi güvenliği & Atık Takas projeleri  
 - **MÜSİAD Girişimcilik Programı** – AI + Sürdürülebilirlik projeleri  
 - **Demo Day Sunumları** – Yatırımcı & jüri sunumları
@@ -185,7 +185,7 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ---
 
 ## 🎯 Achievements & Awards
-- **Hackathon 2025** – Finalist, Waste Exchange Project  
+- **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
 - **OSTİM Project Market Finalist** – Occupational Safety & Waste Exchange Projects  
 - **MÜSİAD Entrepreneurship Program** – AI & Sustainability Projects  
 - **Demo Day Presentations** – Investor & Jury Pitches  
