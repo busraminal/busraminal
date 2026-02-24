@@ -94,6 +94,10 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Arena](https://img.shields.io/badge/Arena_Simulation-FF6F00?style=for-the-badge&logoColor=white)
+![DSI Studio](https://img.shields.io/badge/DSI_Studio-2C3E50?style=for-the-badge&logoColor=white)
+![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 🎯 Başarılar & Ödüller
@@ -181,7 +185,9 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
+![Arena](https://img.shields.io/badge/Arena_Simulation-FF6F00?style=for-the-badge&logoColor=white)
+![DSI Studio](https://img.shields.io/badge/DSI_Studio-2C3E50?style=for-the-badge&logoColor=white)
+![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
 ---
 
 ## 🎯 Achievements & Awards
