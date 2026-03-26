@@ -97,7 +97,7 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![Arena](https://img.shields.io/badge/Arena_Simulation-FF6F00?style=for-the-badge&logoColor=white)
 ![DSI Studio](https://img.shields.io/badge/DSI_Studio-2C3E50?style=for-the-badge&logoColor=white)
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
-![ARENA](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
+[![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)](https://www.slicer.org/)
 ---
 
 ## 🎯 Başarılar & Ödüller
@@ -188,7 +188,7 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![Arena](https://img.shields.io/badge/Arena_Simulation-FF6F00?style=for-the-badge&logoColor=white)
 ![DSI Studio](https://img.shields.io/badge/DSI_Studio-2C3E50?style=for-the-badge&logoColor=white)
 ![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
-![ARENA](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
+[![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)](https://www.slicer.org/)
 ---
 
 ## 🎯 Achievements & Awards
