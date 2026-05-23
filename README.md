@@ -103,10 +103,13 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ## 🎯 Başarılar & Ödüller
 - **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
 - **OSTİM Proje Pazarı Finalisti** – İşçi güvenliği & Atık Takas projeleri  
-- **MÜSİAD Girişimcilik Programı** – AI + Sürdürülebilirlik projeleri  
+- **MÜSİAD Girişimcilik Programı** – İşçi güvenliği & Atık Takas projeleri 
 - **Demo Day Sunumları** – Yatırımcı & jüri sunumları
 - **TÜBİTAK 2209** - İşçi güvenliği
-- **HAVELSAN SUİT** - Multi model deepfake tespiti
+- **HAVELSAN BiGG** - Multi model deepfake tespiti
+- **TÜBİTAK 2209-A & HAVELSAN SUIT** — Multi Modal Deepfake Tespiti Sistemi
+- **TÜBİTAK 2209-A** — Dinamik WIP Akış Süresi Tahmini ve Tıkanma Noktası Erken Uyarı Sistemi
+- **HAVELSAN BİGG** — AI Tabanlı Atık Yönetimi & Sürdürülebilirlik Sistemi
 
 ---
 
@@ -192,12 +195,16 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ---
 
 ## 🎯 Achievements & Awards
-- **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
-- **OSTİM Project Market Finalist** – Occupational Safety & Waste Exchange Projects  
-- **MÜSİAD Entrepreneurship Program** – AI & Sustainability Projects  
-- **Demo Day Presentations** – Investor & Jury Pitches  
-- **TÜBİTAK 2209 Research Program** – Occupational Safety Project  
-- **HAVELSAN SUİT** – Multimodal Deepfake Detection System  
+* **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
+* **OSTİM Project Market Finalist** – Occupational Safety & Waste Exchange Projects
+* **MÜSİAD Entrepreneurship Program** – Occupational Safety & Waste Exchange Projects
+* **Demo Day Presentations** – Investor & Jury Presentations
+* **TÜBİTAK 2209** – Occupational Safety Project
+* **HAVELSAN BiGG** – Multi-Model Deepfake Detection
+* **TÜBİTAK 2209-A & HAVELSAN SUIT** — Multi-Modal Deepfake Detection System
+* **TÜBİTAK 2209-A** — Dynamic WIP Flow Time Prediction and Bottleneck Early Warning System in Production Lines
+* **HAVELSAN BiGG** — AI-Based Waste Management & Sustainability System
+
 
 ---
 
