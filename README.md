@@ -28,54 +28,58 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### 🌐 Web Development & Deployment
+## 🛠️ Teknolojiler & Araçlar
+
+---
+
+### 🌐 Web Geliştirme & Dağıtım
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 
-**Backend Development**
-- PHP Application Development
-- Laravel Development
-- REST API Integration
-- Authentication & Authorization
-- Admin Panel Management
+**Backend Geliştirme**
+- PHP Uygulama Geliştirme
+- Laravel Geliştirme
+- REST API Entegrasyonu
+- Kimlik Doğrulama & Yetkilendirme
+- Yönetim Paneli Yönetimi
 
-**Environment & Dependency Management**
-- PHP Environment Configuration
-- Composer Dependency Management
-- Package Management
-- Environment Variables (`.env`)
-- Application Configuration
+**Ortam & Bağımlılık Yönetimi**
+- PHP Ortam Yapılandırması
+- Composer Bağımlılık Yönetimi
+- Paket Yönetimi
+- Ortam Değişkenleri (`.env`)
+- Uygulama Yapılandırması
 
-**Deployment & Infrastructure**
-- Local Deployment
-- Tunnel Deployment (ngrok)
-- Development Server Management
-- Application Migration
-- Production Preparation
+**Dağıtım & Altyapı**
+- Yerel Dağıtım
+- Tünel Dağıtımı (ngrok)
+- Geliştirme Sunucusu Yönetimi
+- Uygulama Migrasyonu
+- Prodüksiyon Hazırlığı
 
-**Database Management**
-- Database Design
-- PostgreSQL Administration
-- SQLite Management
-- Database Export / Import
-- Backup & Restore Operations
-- Migration Management
+**Veritabanı Yönetimi**
+- Veritabanı Tasarımı
+- PostgreSQL Yönetimi
+- SQLite Yönetimi
+- Veritabanı Dışa / İçe Aktarma
+- Yedekleme & Geri Yükleme
+- Migrasyon Yönetimi
 
-**CMS & Theme Integration**
-- Theme Integration
-- Template Customization
-- UI Component Integration
-- Content Management
+**CMS & Tema Entegrasyonu**
+- Tema Entegrasyonu
+- Şablon Özelleştirme
+- Arayüz Bileşeni Entegrasyonu
+- İçerik Yönetimi
 
-**Operations**
-- System Configuration
-- Troubleshooting
-- Debugging
-- Version Control Workflow
-- Deployment Workflow
+**Operasyon**
+- Sistem Yapılandırması
+- Sorun Giderme
+- Hata Ayıklama
+- Sürüm Kontrol İş Akışı
+- Dağıtım İş Akışı
 
 ---
 
@@ -92,7 +96,7 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### 🖥️ Frontend Technologies
+### 🖥️ Frontend Teknolojileri
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -100,14 +104,14 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### ⚙️ Backend Technologies
+### ⚙️ Backend Teknolojileri
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### 🤖 Large Language Models & Generative AI
+### 🤖 Büyük Dil Modelleri & Üretken Yapay Zeka
 
 ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge)
 ![BERT](https://img.shields.io/badge/BERT-FFB000?style=for-the-badge)
@@ -117,12 +121,12 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 **Çalışma Alanları**
-- Prompt Engineering
-- Agentic AI
-- Tool Calling & Function Calling
-- Context Engineering
-- LLM Evaluation
-- AI Assistants
+- Prompt Mühendisliği
+- Ajan Tabanlı Yapay Zeka (Agentic AI)
+- Araç Çağırma & Fonksiyon Çağırma
+- Bağlam Mühendisliği
+- LLM Değerlendirme
+- Yapay Zeka Asistanları
 
 ---
 
@@ -133,17 +137,17 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![BM25](https://img.shields.io/badge/BM25-6C3483?style=for-the-badge)
 
 **Çalışma Alanları**
-- Semantic Search
-- Hybrid Search
-- Vector Search
-- Embedding Models
-- Query Expansion
-- Knowledge Base Design
-- Document Chunking
+- Anlamsal Arama
+- Hibrit Arama
+- Vektör Arama
+- Gömme (Embedding) Modelleri
+- Sorgu Genişletme
+- Bilgi Tabanı Tasarımı
+- Belge Parçalama (Chunking)
 
 ---
 
-### 🧠 Deep Learning
+### 🧠 Derin Öğrenme
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -152,29 +156,29 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 **Mimariler**
 - CNN · ResNet · EfficientNet
 - LSTM · BiLSTM
-- Transformer · Attention Mechanisms
-- Transfer Learning
-- Multimodal Learning
+- Transformer · Dikkat Mekanizmaları
+- Transfer Öğrenme
+- Çok Modlu Öğrenme
 
 ---
 
-### 👁️ Computer Vision
+### 👁️ Bilgisayarlı Görü
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Çalışma Alanları**
-- Deepfake Detection
-- Face Analysis
-- Image Classification
-- Video Analysis
-- FFT Feature Extraction
-- Image Preprocessing
-- Feature Engineering
-- Pattern Recognition
+- Deepfake Tespiti
+- Yüz Analizi
+- Görüntü Sınıflandırma
+- Video Analizi
+- FFT Özellik Çıkarımı
+- Görüntü Ön İşleme
+- Özellik Mühendisliği
+- Örüntü Tanıma
 
 ---
 
-### 📈 Machine Learning & Predictive Analytics
+### 📈 Makine Öğrenmesi & Tahminsel Analitik
 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -186,29 +190,29 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 - ANFIS
 
 **Çalışma Alanları**
-- Regression
-- Forecasting
-- Time Series Analysis
-- Hyperparameter Optimization
-- Model Evaluation
-- Explainable AI
+- Regresyon
+- Tahminleme (Forecasting)
+- Zaman Serisi Analizi
+- Hiperparametre Optimizasyonu
+- Model Değerlendirme
+- Açıklanabilir Yapay Zeka
 
 ---
 
-### 🎥 Multimodal AI
+### 🎥 Çok Modlu Yapay Zeka
 
 **Alanlar**
-- Text Processing
-- Audio Processing
-- Video Processing
-- Vision Models
-- Feature Fusion
-- Deepfake Analysis
-- Cross-Modal Learning
+- Metin İşleme
+- Ses İşleme
+- Video İşleme
+- Görü Modelleri
+- Özellik Birleştirme (Feature Fusion)
+- Deepfake Analizi
+- Çapraz Modlu Öğrenme
 
 ---
 
-### 🗄️ Database & Data Science
+### 🗄️ Veritabanı & Veri Bilimi
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -217,21 +221,21 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### 🔄 MLOps & Deployment
+### 🔄 MLOps & Dağıtım
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Konular**
-- API Development
-- Model Serving
-- Dockerization
+- API Geliştirme
+- Model Sunumu (Serving)
+- Docker ile Konteynerleştirme
 - CI/CD
-- Reproducible AI Pipelines
+- Tekrarlanabilir Yapay Zeka Boru Hatları
 
 ---
 
-### ⚙️ Tools & Platforms
+### ⚙️ Araçlar & Platformlar
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -249,20 +253,20 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### 🏭 Domain Expertise
+### 🏭 Uzmanlık Alanları
 
-- Artificial Intelligence Engineering
-- Industrial Engineering
-- Smart Waste Management Systems
-- Blockchain-Based Traceability
-- Deepfake Detection Systems
-- Computer Vision Applications
-- Predictive Analytics
-- Decision Support Systems
-- Optimization & Simulation
-- Data-Driven Engineering
-- Multimodal AI Systems
-- Generative AI Applications
+- Yapay Zeka Mühendisliği
+- Endüstri Mühendisliği
+- Akıllı Atık Yönetim Sistemleri
+- Blokzincir Tabanlı İzlenebilirlik
+- Deepfake Tespit Sistemleri
+- Bilgisayarlı Görü Uygulamaları
+- Tahminsel Analitik
+- Karar Destek Sistemleri
+- Optimizasyon & Simülasyon
+- Veri Odaklı Mühendislik
+- Çok Modlu Yapay Zeka Sistemleri
+- Üretken Yapay Zeka Uygulamaları
 ---
 
 ## 🎯 Başarılar & Ödüller
