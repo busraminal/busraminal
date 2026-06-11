@@ -529,6 +529,16 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 - Generative AI Applications
 
 ---
+## 🎯 Achievements & Awards
+- **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
+- **OSTİM Proje Pazarı Finalisti** – Worker safety & Waste Exchange projects
+- **MÜSİAD Girişimcilik Programı** – Worker safety & Waste Exchange projects
+- **Demo Day Sunumları** – Investor & jury presentations
+- **TÜBİTAK 2209** - worker safety
+- **HAVELSAN BiGG** - Multi model deepfake detections Systems
+- **TÜBİTAK 2209-A & HAVELSAN SUIT** — Multi Modal Deepfake detections Systems
+- **TÜBİTAK 2209-A** — Dynamic WIP Flow Time Estimation and Blockage Point Early Warning System
+- **HAVELSAN BİGG** — AI-Based Waste Management & Sustainability System
 
 <div align="center">
   <sub>⭐️ Thank you for visiting my GitHub profile!</sub>
