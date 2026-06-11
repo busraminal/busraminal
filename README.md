@@ -290,9 +290,7 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-## 🛠️ Teknolojiler & Araçlar
 
----
 
 ### 🌐 Web Development & Deployment
 
