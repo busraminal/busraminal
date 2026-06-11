@@ -288,7 +288,63 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### 💻 Programming Languages
+## 🛠️ Teknolojiler & Araçlar
+
+---
+
+### 🌐 Web Development & Deployment
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+
+**Backend Development**
+- PHP Application Development
+- Laravel Development
+- REST API Integration
+- Authentication & Authorization
+- Admin Panel Management
+
+**Environment & Dependency Management**
+- PHP Environment Configuration
+- Composer Dependency Management
+- Package Management
+- Environment Variables (`.env`)
+- Application Configuration
+
+**Deployment & Infrastructure**
+- Local Deployment
+- Tunnel Deployment (ngrok)
+- Development Server Management
+- Application Migration
+- Production Preparation
+
+**Database Management**
+- Database Design
+- PostgreSQL Administration
+- SQLite Management
+- Database Export / Import
+- Backup & Restore Operations
+- Migration Management
+
+**CMS & Theme Integration**
+- Theme Integration
+- Template Customization
+- UI Component Integration
+- Content Management
+
+**Operations**
+- System Configuration
+- Troubleshooting
+- Debugging
+- Version Control Workflow
+- Deployment Workflow
+
+---
+
+### 💻 Programlama Dilleri
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -299,38 +355,125 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
-#### 🖥️ Frameworks
-#### 🔹 Frontend 
+
+### 🖥️ Frontend Technologies
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
-#### 🔹 Backend 
+### ⚙️ Backend Technologies
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-### 🤖 AI / Machine Learning
+### 🤖 Large Language Models & Generative AI
 
-#### 🔹 LLM & Retrieval
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FFB000?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+![Phi-3](https://img.shields.io/badge/Phi--3-5C2D91?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+**Çalışma Alanları**
+- Prompt Engineering
+- Agentic AI
+- Tool Calling & Function Calling
+- Context Engineering
+- LLM Evaluation
+- AI Assistants
+
+---
+
+### 📚 Retrieval Augmented Generation (RAG)
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C7ED6?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
 ![BM25](https://img.shields.io/badge/BM25-6C3483?style=for-the-badge)
 
-#### 🔹 ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-#### 🔹 Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+**Çalışma Alanları**
+- Semantic Search
+- Hybrid Search
+- Vector Search
+- Embedding Models
+- Query Expansion
+- Knowledge Base Design
+- Document Chunking
 
 ---
 
-### 🗄️ Databases & Data Science
+### 🧠 Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Mimariler**
+- CNN · ResNet · EfficientNet
+- LSTM · BiLSTM
+- Transformer · Attention Mechanisms
+- Transfer Learning
+- Multimodal Learning
+
+---
+
+### 👁️ Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Çalışma Alanları**
+- Deepfake Detection
+- Face Analysis
+- Image Classification
+- Video Analysis
+- FFT Feature Extraction
+- Image Preprocessing
+- Feature Engineering
+- Pattern Recognition
+
+---
+
+### 📈 Machine Learning & Predictive Analytics
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Algoritmalar**
+- XGBoost
+- Gradient Boosting
+- Random Forest
+- SVR
+- ANFIS
+
+**Çalışma Alanları**
+- Regression
+- Forecasting
+- Time Series Analysis
+- Hyperparameter Optimization
+- Model Evaluation
+- Explainable AI
+
+---
+
+### 🎥 Multimodal AI
+
+**Alanlar**
+- Text Processing
+- Audio Processing
+- Video Processing
+- Vision Models
+- Feature Fusion
+- Deepfake Analysis
+- Cross-Modal Learning
+
+---
+
+### 🗄️ Database & Data Science
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -338,38 +481,52 @@ Generative AI • Time-Series • NLP • ML • CV • DL • Image Processing 
 
 ---
 
-### ⚙️ Tools & Platforms
+### 🔄 MLOps & Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Konular**
+- API Development
+- Model Serving
+- Dockerization
+- CI/CD
+- Reproducible AI Pipelines
+
+---
+
+### ⚙️ Tools & Platforms
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Arena](https://img.shields.io/badge/Arena_Simulation-FF6F00?style=for-the-badge&logoColor=white)
-![DSI Studio](https://img.shields.io/badge/DSI_Studio-2C3E50?style=for-the-badge&logoColor=white)
-![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge&logoColor=white)
-[![ARENA](https://img.shields.io/badge/ARENA-FF6F00?style=for-the-badge&logoColor=white)](https://www.arenasimulation.com/)
+![MS Project](https://img.shields.io/badge/MS%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
+![Arena Simulation](https://img.shields.io/badge/Arena_Simulation-FF6F00?style=for-the-badge)
+![DSI Studio](https://img.shields.io/badge/DSI_Studio-2C3E50?style=for-the-badge)
+![3D Slicer](https://img.shields.io/badge/3D_Slicer-0E76A8?style=for-the-badge)
+
 ---
 
-## 🎯 Achievements & Awards
-* **Siemens Healthineers** – Future of Imaging (FOI) | Finalist
-* **OSTİM Project Market Finalist** – Occupational Safety & Waste Exchange Projects
-* **MÜSİAD Entrepreneurship Program** – Occupational Safety & Waste Exchange Projects
-* **Demo Day Presentations** – Investor & Jury Presentations
-* **TÜBİTAK 2209** – Occupational Safety Project
-* **HAVELSAN BiGG** – Multi-Model Deepfake Detection
-* **TÜBİTAK 2209-A & HAVELSAN SUIT** — Multi-Modal Deepfake Detection System
-* **TÜBİTAK 2209-A** — Dynamic WIP Flow Time Prediction and Bottleneck Early Warning System in Production Lines
-* **HAVELSAN BiGG** — AI-Based Waste Management & Sustainability System
+### 🏭 Domain Expertise
 
+- Artificial Intelligence Engineering
+- Industrial Engineering
+- Smart Waste Management Systems
+- Blockchain-Based Traceability
+- Deepfake Detection Systems
+- Computer Vision Applications
+- Predictive Analytics
+- Decision Support Systems
+- Optimization & Simulation
+- Data-Driven Engineering
+- Multimodal AI Systems
+- Generative AI Applications
 
 ---
 
